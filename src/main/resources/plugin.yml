@@ -1,0 +1,7 @@
+name: XWelcome
+version: '${project.version}'
+main: works.emregumus.xwelcome.XWelcome
+api-version: 1.13
+commands:
+    xwelcome:
+        description: XWelcome plugin command

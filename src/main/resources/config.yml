@@ -1,0 +1,19 @@
+welcome-screen:
+  enable: true
+  # This will send to player a title that have a black full-screen background.
+  background-title: "&8%img_black_background%"
+  # This will open an inventory with the title below to show the welcome image.
+  # when player close this inventory, all effects, title will be clear.
+  welcome-title: "&f%img_offset_-48%%img_welcome_ui%"
+
+join-motd:
+  - "&r"
+  - "&r "
+  - "          &f%img_server_logo%"
+  - "&r "
+  - "&r "
+  - "&r "
+  - "&r "
+  - "            &r &#25CCF7yourserver.com"
+  - "&r "
+  - "&r "
